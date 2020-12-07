@@ -1,0 +1,30 @@
+.body {
+    content: '';
+    background: url("Bg.png");
+    background-repeat: no-repeat;
+    background-size: 80vmax;
+    background-position: bottom right;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+.logo {
+    height: 40px;
+    width: 150px;
+}
+
+.cpt {
+    margin-top: 4.5em;
+}
+
+.cpt-bt {
+    margin-top: -.5em;
+    margin-bottom: .75em;
+}
+
+.cpt-btn {
+    margin-top: 1.75em;
+}
